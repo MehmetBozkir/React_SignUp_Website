@@ -32,7 +32,7 @@ $ npm install
 $ npm start
 ```
 ## :link: Demo
-  - <a target="_blank" https://react-signup-website.netlify.app/"> Click Here </a> to see and play by yourself a demo of the game.
+  - <a target="_blank" href="https://react-signup-website.netlify.app/"> Click Here </a> to see and play by yourself a demo of the game.
 
 <br> 
 
