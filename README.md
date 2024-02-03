@@ -9,7 +9,7 @@ A sign up test site where I use Reactjs, Tailwindcss and Daisyui.
 <br> 
   
   :wrench: Features 
-  --------------------
+  ---------------------
 
   A working model that combines Reactjs, Tailwindcss,Daisyui css and html.
   
